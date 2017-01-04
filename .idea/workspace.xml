@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f27f9c44-2d4f-4b7a-8cf4-9346114a8a80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplo_01/teste.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f27f9c44-2d4f-4b7a-8cf4-9346114a8a80" name="Default" comment="" />
     <list id="eb3ccde4-c076-42e6-848a-b2a26c8a3071" name="Rejected commit: Default" comment="teste git" />
     <ignored path="phpstorm_git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -223,7 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1483482711337</updated>
       <workItem from="1483482712646" duration="3066000" />
-      <workItem from="1483563058492" duration="6354000" />
+      <workItem from="1483563058492" duration="6433000" />
     </task>
     <task id="LOCAL-00001" summary="exemplo de array multidimensional">
       <created>1483565289211</created>
@@ -243,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9420000" />
+    <option name="totallyTimeSpent" value="9499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="998" height="867" extended-state="0" />
