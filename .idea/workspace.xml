@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f27f9c44-2d4f-4b7a-8cf4-9346114a8a80" name="Default" comment="teste git">
+    <list default="true" id="f27f9c44-2d4f-4b7a-8cf4-9346114a8a80" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="eb3ccde4-c076-42e6-848a-b2a26c8a3071" name="Rejected commit: Default" comment="teste git" />
@@ -27,8 +27,8 @@
       <file leaf-file-name="palindromo.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exemplo_01/palindromo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -58,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/exemplo_01/array_multidimensional.php" />
         <option value="$PROJECT_DIR$/exemplo_01/teste_git.php" />
+        <option value="$PROJECT_DIR$/exemplo_01/palindromo.php" />
       </list>
     </option>
   </component>
@@ -205,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1483482711337</updated>
       <workItem from="1483482712646" duration="3066000" />
-      <workItem from="1483563058492" duration="4369000" />
+      <workItem from="1483563058492" duration="4860000" />
     </task>
     <task id="LOCAL-00001" summary="exemplo de array multidimensional">
       <created>1483565289211</created>
@@ -214,11 +215,18 @@
       <option name="project" value="LOCAL" />
       <updated>1483565289211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mudando nome script teste">
+      <created>1483567853670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1483567853670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7435000" />
+    <option name="totallyTimeSpent" value="7926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="998" height="867" extended-state="0" />
@@ -258,7 +266,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exemplo de array multidimensional" />
     <MESSAGE value="teste git" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste git" />
+    <MESSAGE value="mudando nome script teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="mudando nome script teste" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -287,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exemplo_01/palindromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
