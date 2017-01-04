@@ -7,7 +7,7 @@
  */
 
 $array1 = array('a','r','a','r', 'a');
-$array2 = array('a', 'r','a', 'r', 'a');
+$array2 = array('a', 'r', 'a', 'r', 'a');
 
 $contador = count($array1);
 $array_invertido = array_reverse($array2);
